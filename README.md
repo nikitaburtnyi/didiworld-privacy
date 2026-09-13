@@ -8,7 +8,7 @@
 
 ---
 
-# Magic Didi — Privacy Policy
+# Магия Диди (Didi's Magic) — Privacy Policy
 
-Privacy policy page of the children's game "Magic Didi" for iPhone and iPad:
+Privacy policy page of the children's game «Магия Диди» (Didi's Magic) for iPhone and iPad:
 https://nikitaburtnyi.github.io/didiworld-privacy/
